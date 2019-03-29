@@ -2,7 +2,7 @@
 Classification using a deep learning network for identifying leaves
 
 ## Getting Started
-I am using Matlab 2019a will also work for other versions as long as your have Deep Learning Toolbox.
+I am using Matlab 2019a, it will also work for other versions (2016 - 2018) as long as your have Deep Learning Toolbox.
 
 
 ## Background
